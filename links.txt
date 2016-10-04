@@ -1,0 +1,2 @@
+Swift Docs: https://developer.apple.com/library/content/documentation/Swift/
+Swift IBM: https://developer.ibm.com/swift/
